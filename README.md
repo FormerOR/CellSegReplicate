@@ -1,4 +1,8 @@
-### CellSegReplicate
+# CellSegReplicate
+
+## 北邮计科9组考核项目代码库
+
+fork from:[huiqu18/WeaklySegPartialPoints: Weakly supervised nuclei segmentation using partial points annotation](https://github.com/huiqu18/WeaklySegPartialPoints)
 
 ref to :
 @artcle{Qu2020weakly,
@@ -8,3 +12,4 @@ ref to :
     journal = "IEEE transactions on Medical Imaging",
     year = "2020",
 }
+
