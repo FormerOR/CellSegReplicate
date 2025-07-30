@@ -1,6 +1,6 @@
 # CellSegReplicate
 
-## 北邮计科9组考核项目代码库
+## 细胞核分割论文方法复现
 
 fork from:[huiqu18/WeaklySegPartialPoints: Weakly supervised nuclei segmentation using partial points annotation](https://github.com/huiqu18/WeaklySegPartialPoints)
 
